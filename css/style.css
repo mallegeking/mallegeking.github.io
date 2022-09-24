@@ -1,0 +1,35 @@
+body {
+    background-color: #B4E197;
+
+}
+
+hr {
+    border-style: dotted none none;
+    border-width: 6px;
+    width: 20%;
+    border-color: gray;
+}
+
+img:hover {
+    background-color: blue;
+}
+
+/*
+h1,
+h2,
+h3,
+h4: {
+    color: #66BFBF;
+}
+*/
+h3:hover {
+    background-color: blue;
+    font-size: large;
+    font-style: oblique;
+}
+
+.second {
+    font-size: larger;
+    font-family: monospace;
+    color: violet;
+}
